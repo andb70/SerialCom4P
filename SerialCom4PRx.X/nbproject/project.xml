@@ -4,15 +4,17 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>SerialCom4PRx</name>
-            <creation-uuid>2b2ce01d-ceda-478e-a283-70154550e655</creation-uuid>
+            <creation-uuid>d732e540-bced-4978-a335-2ae591770114</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
             <cpp-extensions/>
-            <header-extensions/>
+            <header-extensions>h</header-extensions>
             <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
-            <sourceRootList/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+            </sourceRootList>
             <confList>
                 <confElem>
                     <name>default</name>
